@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Jan de Vries",
+    "birthday": "1990-12-06",
+    "address": "Daendelsstraat 20, 5018ES Tilburg",
+    "email": "jandevries@gmail.com",
+    "bio":
+      "Front-end webdeveloper, zweefvlieger, vrijwilliger en penningmeester bij Zweefvliegvereniging GLC Illustrious.",
+    "picture": "https://loremflickr.com/512/512/people"
+  },
+  {
+    "id": 2,
+    "name": "Erica van Weerd",
+    "birthday": "1991-02-05",
+    "address": "Dreesstraat 210, 5121AJ Rijen",
+    "email": "emjvanweerd@gmail.com",
+    "bio": "Verpleegkundige op de afdeling Traumologie van het ETZ in Tilburg",
+    "picture": "https://loremflickr.com/512/512/people"
+  }
+]
